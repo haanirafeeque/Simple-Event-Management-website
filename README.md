@@ -1,6 +1,6 @@
 # 🌟 IKRU Event Management
 
-IKRU Event Management is a responsive and user-friendly website built using **HTML**, **CSS**, and **JavaScript**.  
+IKRU Event Management is a user-friendly website built using **HTML**, **CSS**, and **JavaScript**.  
 It serves as a complete platform for managing and showcasing events, allowing users to register seamlessly through an interactive registration panel.
 
 ---
@@ -10,7 +10,6 @@ It serves as a complete platform for managing and showcasing events, allowing us
 - 🎉 **Modern Event Landing Page** – Clean and attractive design to showcase events.
 - 📝 **Registration Panel** – Allows users to register for events with form validation.
 - 🔗 **Redirection Functionality** – Smooth redirection to a confirmation or details page after successful registration.
-- 📱 **Fully Responsive Design** – Optimized for all screen sizes and devices.
 - 💬 **Interactive UI Elements** – JavaScript-powered animations and effects for enhanced user experience.
 
 ---
