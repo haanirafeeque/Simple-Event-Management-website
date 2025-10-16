@@ -57,28 +57,10 @@ IKRU-Event-Management/
 
 ## 💻 Live Demo
 
-👉 **[View Live Demo](#)**  
-*(Replace the `#` with your live link once deployed on GitHub Pages, Netlify, or Vercel.)*
+👉 **[View Live Demo](https://haanirafeeque.github.io/Simple-Event-Management-website)**  
 
 ---
 
-## 📸 Screenshots
-
-*(You can add screenshots here)*
-
-```
-![Home Page](assets/images/homepage.png)
-![Registration Page](assets/images/registration.png)
-```
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork this project and submit a pull request.
-
----
 
 ## 🧑‍💻 Author
 
